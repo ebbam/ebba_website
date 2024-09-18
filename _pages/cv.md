@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Student, University of Oxford, 2026 (expected)
+* M.Sc. in Environmental Change and Management, University of Oxford, 2021
+* B.A. in Economics, Harvard College, 2017
+* International Honors Program, School for International Training, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-2020: Young Associate - Office of the Secretary General
+  * OECD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2021: Research Assistant
+  * Nature-based Solutions Initiative, University of Oxford
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+
+Languages
+======
+* English (fluent)
+* Swedish (fluent)
+* French (C1)
+* Spanish (B2)
 
 Publications
 ======
@@ -61,4 +56,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Bureau of Economics Peer Tutor, Harvard College
+* Captain and Treasurer, Harvard Women's Club Volleyball Team
