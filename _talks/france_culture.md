@@ -1,11 +1,11 @@
 ---
-title: "WEHIA 2024"
+title: "Climat : seulement une infime partie des politiques ont un réel impact"
 collection: talks
 type: "Talk"
-permalink: /talks/WEHIA_2024
-venue: "Bamberg"
-date: 2024-07-09
-location: "Bamberg, Germany"
+permalink: https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/climat-une-infime-partie-des-politiques-ont-un-reel-impact-4190342
+venue: "France Culture - Avec Sciences"
+date: 2024-08-29
+location: "Radio France"
 ---
 
 [More information here](http://example2.com)
