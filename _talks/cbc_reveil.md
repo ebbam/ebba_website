@@ -1,11 +1,11 @@
 ---
-title: "WEHIA 2024"
+title: "CBC - Reveil Nouvelle Ecosse"
 collection: talks
-type: "Talk"
-permalink: /talks/WEHIA_2024
-venue: "Bamberg"
+type: "Press Engagements"
+permalink: /talks/cbc_nouvelle_ecosse
+venue: "CBC"
 date: 2024-07-09
-location: "Bamberg, Germany"
+location: "Nova Scotia, Canada"
 ---
 
 [More information here](http://example2.com)
