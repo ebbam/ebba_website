@@ -8,7 +8,7 @@ date: 2024-09-12
 location: "Radio Canada"
 ---
 
-Press engagements (French) discussing the findings of [Stechemesser et al. 2024](https://www.science.org/doi/10.1126/science.adl6547) in Science. Two spots on Le réveil (1) Île-du-Prince-Édouard and (2) Nouvelle-Écosse.
+Press engagements (French) discussing the findings of [Stechemesser et al. 2024](https://www.science.org/doi/10.1126/science.adl6547) in Science. Two spots on Le réveil - Île-du-Prince-Édouard and Le réveil - Nouvelle-Écosse.
 
 
 **Le réveil / Île-du-Prince-Édouard**
