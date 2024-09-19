@@ -9,7 +9,7 @@ redirect_from:
 
 
 ------------------
-I am DPhil student with ***Climate Econometrics***, ***the Institute for New Economic Thinking***, and ***the Smith School of Enterprise and the Environment*** at the **University of Oxford**. I focus on applying *econometric and agent-based modelling methods* to the study of what constitutes a *'Just Transition.'* Passionate about evidence-based policymaking and ensuring that urgent environmental action is compatible with ongoing fights for greater equality, my research interest is in advancing empirical work to inform the scale and type of Just Transition policies necessary as societies move towards fulfilling net-zero objectives.
+I am DPhil student with ***Climate Econometrics***, ***the Institute for New Economic Thinking***, and ***the Smith School of Enterprise and the Environment*** at the **University of Oxford**. My work focuses on better understanding the complex geographical, social, and economic impacts of environmental and energy system transformation. I have experience in the application of econometric, spatial, and agent-based modelling methods grounded in economic geography and climate/environmental/energy justice literature. Passionate about evidence-based policymaking and ensuring that urgent environmental action is compatible with ongoing fights for greater equality, my research interest is in advancing empirical work to inform the scale and type of Just Transition policies necessary as societies move towards fulfilling net-zero objectives.
 
 I am a Graduate Scholar with the ***Calleva Research Centre*** based at Magdalen College as well as a ***Europaeum Scholar***.
 
