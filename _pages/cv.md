@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download a copy of my full CV [here](http://ebbam.github.io/files/Ebba_Mark_CV_2pg.pdf).
+
 Education
 ======
 * Ph.D Student, University of Oxford, 2026 (expected)
@@ -18,11 +20,12 @@ Education
 
 Work experience
 ======
-* 2018-2020: Young Associate - Office of the Secretary General
-  * OECD
+* OECD - 2018-2020
+  * Young Associate Programme
+  * Junior Policy Advisor, Office of the Secretary General
 
-* Fall 2021: Research Assistant
-  * Nature-based Solutions Initiative, University of Oxford
+* Nature-based Solutions Initiative, University of Oxford - Fall 2021
+  * Research Assistant
   
 Skills
 ======
@@ -48,13 +51,13 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Bureau of Economics Peer Tutor, Harvard College
-* Captain and Treasurer, Harvard Women's Club Volleyball Team
+* Captain and Treasurer, Harvard Women's Club Volleyball Team -->

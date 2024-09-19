@@ -1,11 +1,11 @@
 ---
-title: "Climate Econometrics Seminar Series"
+title: "A Just Transition in US Coal Regions: Spatial-temporal dynamics of employment shocks in coal counties"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/CE_2022
-venue: "Climate Econometrics"
+venue: "Climate Econometrics Seminar Series"
 date: 2022-03-01
 location: "Oxford, UK"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Watch the seminar talk [here](https://www.climateeconometrics.org/ce-seminar-series-2022-2023/).

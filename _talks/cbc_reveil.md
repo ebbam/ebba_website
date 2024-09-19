@@ -1,13 +1,22 @@
 ---
-title: "CBC - Reveil Nouvelle Ecosse"
+title: "L'efficacité des politiques climatiques à la loupe, dont la taxe carbone"
 collection: talks
-type: "Press Engagements"
-permalink: /talks/cbc_nouvelle_ecosse
-venue: "CBC"
-date: 2024-07-09
-location: "Nova Scotia, Canada"
+type: "Press"
+permalink: /talks/cbc_radio_canada
+venue: "Le réveil"
+date: 2024-09-12
+location: "Radio Canada"
 ---
 
-[More information here](http://example2.com)
+Press engagements (French) discussing the findings of [Stechemesser et al. 2024](https://www.science.org/doi/10.1126/science.adl6547) in Science. Two spots on Le réveil (1) Île-du-Prince-Édouard and (2) Nouvelle-Écosse.
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+
+**Le réveil / Île-du-Prince-Édouard**
+
+<iframe src="https://ici.radio-canada.ca/ohdio/premiere/emissions/le-reveil-ile-du-prince-edouard/segments/rattrapage/1850225/efficacite-politiques-climatiques-a-loupe-dont-taxe-carbone" width="100%" height="300px" frameBorder="0" style="border: 0;"></iframe><br>"" <a href="" target="_blank"></a>
+
+**Le réveil / Nouvelle-Écosse**
+
+<iframe src="https://ici.radio-canada.ca/ohdio/premiere/emissions/le-reveil-nouvelle-ecosse-et-t-n/segments/rattrapage/1851299/actualite-jour" width="100%" height="300px" frameBorder="0" style="border: 0;"></iframe><br>"" <a href="" target="_blank"></a>
+
+
