@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download a copy of my full CV [here](http://ebbam.github.io/files/Ebba_Mark_CV_2pg.pdf).
+Download a copy of my full CV [here](http://ebbam.github.io/ebba_website/files/Ebba_Mark_CV_2pg.pdf).
 
 Education
 ======
