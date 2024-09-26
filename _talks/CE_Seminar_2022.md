@@ -8,4 +8,4 @@ date: 2022-11-15
 location: "Oxford, UK"
 ---
 
-Watch the seminar talk [here](https://www.climateeconometrics.org/ce-seminar-series-2022-2023/).
+Watch the seminar talk [here](http://www.climateeconometrics.org/wp-content/uploads/2022/11/Ebba-Mark-Presentation-1.m4v).
