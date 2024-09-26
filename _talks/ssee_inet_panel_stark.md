@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ssee_inet_webinar_climate_policies
 venue: "Smith School of Enterprise and the Environment & Institute for New Economic Thinking Webinar"
-date: 2022-09-24
+date: 2024-09-24
 location: "Oxford, UK"
 ---
 
