@@ -23,8 +23,12 @@ Work experience
 * OECD - 2018-2020
   * Young Associate Programme
   * Junior Policy Advisor, Office of the Secretary General
+  * Y20 Youth Delegate
 
-* Nature-based Solutions Initiative, University of Oxford - Fall 2021
+* Climate Econometrics - 2022-2023
+  * Just Transition Research Officer
+
+* Nature-based Solutions Initiative - Fall 2021
   * Research Assistant
   
 Skills
@@ -32,10 +36,17 @@ Skills
 * R
 * Python
 
+Awards
+======
+* Calleva Graduate Scholarship, Magdalen College
+* [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/)
+* Complexity Global School, Santa Fe Institute
+* Joan Doll Scholarship, Green Templeton College
+
 Languages
 ======
-* English (fluent)
-* Swedish (fluent)
+* English (native)
+* Swedish (native)
 * French (C1)
 * Spanish (B2)
 
