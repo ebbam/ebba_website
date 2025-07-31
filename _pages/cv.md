@@ -38,6 +38,7 @@ Skills
 
 Awards
 ======
+* 8th Lindau Nobel Meeting in Economic Sciences - Invited Young Scientist
 * Calleva Graduate Scholarship, Magdalen College
 * [Europaeum Scholars Programme](https://europaeum.org/programmes/scholars-programme/)
 * Complexity Global School, Santa Fe Institute
