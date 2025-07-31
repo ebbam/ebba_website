@@ -2,7 +2,7 @@
 title: "Net zero: Strategy and tactics"
 subtitle: "The Climate Econometrics group on how to achieve net zero in the UK and beyond"
 collection: publications
-category: newsletters
+category: manuscripts
 permalink: '/publications/res_newsletter_2025'
 date: 2024-01
 venue: 'Royal Economic Society Newsletter'
