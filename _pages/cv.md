@@ -33,8 +33,10 @@ Work experience
   
 Skills
 ======
-* R
-* Python
+* Programming: Python, R
+* High-Performance Computing: SLURM-based cluster computing, bash scripting, workflow automation and parallel processing for large-scale simulations
+* Collaboration: Git/GitHub for version control and collaborative development
+* Scientific Publishing: LaTeX, Quarto, R Markdown for reproducible research and technical documentation
 
 Awards
 ======
