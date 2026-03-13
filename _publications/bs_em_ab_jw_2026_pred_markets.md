@@ -1,0 +1,13 @@
+---
+title: "Manipulation in Prediction Markets: An Agent-based Modeling Experiment"
+collection: publications
+category: working papers
+permalink: /publications/bs_em_ab_jw_2026_pred_markets
+excerpt: 'Prediction markets mobilize financial incentives to forecast binary event outcomes through the aggregation of dispersed beliefs and heterogeneous information. Their growing popularity and demonstrated predictive accuracy in political elections have raised speculation and concern regarding their susceptibility to manipulation and the potential consequences for democratic processes. Using agent-based simulations combined with an analytic characterization of price dynamics, we study how high-budget agents can introduce price distortions in prediction markets. We explore the persistence and stability of these distortions in the presence of herding or stubborn agents, and analyze how agent expertise affects market-price variance. Firstly we propose an agent-based model of a prediction market in which bettors with heterogeneous expertise, noisy private information, variable learning rates and budgets observe the evolution of public opinion on a binary election outcome to inform their betting strategies in the market. The model exhibits stability across a broad parameter space, with complex agent behaviors and price interactions producing self-regulatory price discovery. Second, using this simulation framework, we investigate the conditions under which a highly resourced minority, or ''whale'' agent, with a biased valuation can distort the market price, and for how long. We find that biased whales can temporarily shift prices, with the magnitude and duration of distortion increasing when non-whale bettors exhibit herding behavior and slow learning. Our theoretical analysis corroborates these results, showing that whales can shift prices proportionally to their share of market capital, with distortion duration depending on non-whale learning rates and herding intensity.'
+date: 2026-01-28
+venue: 'arxiv'
+paperurl: 'https://doi.org/10.48550/arXiv.2601.20452'
+citation: 'Smart, B. et al. (2026) ‘Manipulation in Prediction Markets: An Agent-based Modeling Experiment’. arXiv. Available at: https://doi.org/10.48550/arXiv.2601.20452.'
+---
+
+This research was funded by the Santa Fe Institute and drafted as part of the 2024 Complexity Global School hosted at the Universidad de los Andes in Bogotá, Colombia.
