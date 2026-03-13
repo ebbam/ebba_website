@@ -13,7 +13,7 @@ Download a copy of my full CV [here](http://ebbam.github.io/ebba_website/files/E
 
 Education
 ======
-* Ph.D Student, University of Oxford, 2026 (expected)
+* Ph.D Student, School of Geography and the Environment, University of Oxford, 2026 (expected)
 * M.Sc. in Environmental Change and Management, University of Oxford, 2021
 * B.A. in Economics, Harvard College, 2017
 * International Honors Program, School for International Training, 2016
@@ -21,7 +21,7 @@ Education
 Work experience
 ======
 * OECD - 2018-2020
-  * Young Associate Programme
+  * Young Associates Programme
   * Junior Policy Advisor, Office of the Secretary General
   * Y20 Youth Delegate
 
@@ -33,7 +33,7 @@ Work experience
   
 Skills
 ======
-* Programming: Python, R
+* Programming: R, Python
 * High-Performance Computing: SLURM-based cluster computing, bash scripting, workflow automation and parallel processing for large-scale simulations
 * Collaboration: Git/GitHub for version control and collaborative development
 * Scientific Publishing: LaTeX, Quarto, R Markdown for reproducible research and technical documentation
