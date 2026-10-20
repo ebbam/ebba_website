@@ -9,10 +9,14 @@ redirect_from:
 
 
 ------------------
-I am DPhil student with [Climate Econometrics](https://www.climateeconometrics.org/), the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), and the [Smith School of Enterprise and the Environment](https://www.smithschool.ox.ac.uk/) at the **University of Oxford**. My work focuses on better understanding the complex geographical, social, and economic impacts of environmental and energy system transformation. I have experience in the application of econometric, spatial, and agent-based modelling methods grounded in economic geography and climate/environmental/energy justice literature. Passionate about evidence-based policymaking and ensuring that urgent environmental action is compatible with ongoing fights for greater equality, my research interest is in advancing empirical work to inform the scale and type of Just Transition policies necessary as societies move towards fulfilling net-zero objectives.
+My work focuses on the geographical, social, and economic impacts of economic and structural transformation. I am particularly interested in understanding who bears the costs of these processes and whether existing policies — from just transition frameworks to active labour market programmes to tax policy — are adequate to ensure that their gains are distributed equitably across individuals, communities, and regions. I work with econometric, spatial, and agent-based modelling methods, grounded in economic geography and labour economics.
 
-I am a Graduate Scholar with the [Calleva Research Centre](https://callevacentre.org/) based at Magdalen College as well as a [Europaeum Scholar](https://europaeum.org/scholars/). In 2025, I was selected as one of 250 young scientists to attend the [8th Lindau Nobel Meeting in Economic Sciences](https://www.lindau-nobel.org/).
+I am a DPhil student with the [Institute for New Economic Thinking](https://www.inet.ox.ac.uk/), [Climate Econometrics](https://www.climateeconometrics.org/), and the [Smith School of Enterprise and the Environment](https://www.smithschool.ox.ac.uk/) at the **University of Oxford**, a Graduate Scholar with the [Calleva Research Centre](https://callevacentre.org/) based at Magdalen College, and a [Europaeum Scholar](https://europaeum.org/scholars/). In 2025, I was selected as one of 250 young scientists to attend the [8th Lindau Nobel Meeting in Economic Sciences](https://www.lindau-nobel.org/).
 
 Previously, I worked as Junior Policy Advisor to the **OECD** Chief of Staff and G20/G7 Sherpa in Paris as part of the Organisation's [Young Associates Programme](https://www.oecd.org/en/about/careers/young-associates.html). In this role, I supported the Chief of Staff in advancing her strategic agenda, including the coordination of the organisation’s gender equality, social policy, and inclusive growth work.
 
 I hold an *MSc in Environmental Change and Management* from the **University of Oxford** and a *BA in Economics* from **Harvard College**.
+
+Key Topics: Labour economics, unemployment, wages, inequality, active labour market policy, occupational mobility, public finances
+
+Key Methods: Panel econometrics, occupational networks, agent-based modelling, policy simulations
