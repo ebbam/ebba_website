@@ -107,6 +107,19 @@
   }
 }
 
+.about__keywords {
+  .about__keyword {
+    color: $info-color;
+    font-weight: bold;
+
+    & + .about__keyword:before {
+      content: "\00b7";
+      padding: 0 0.45em;
+      color: $gray;
+    }
+  }
+}
+
 .page__hero {
   position: relative;
   margin-bottom: 2em;

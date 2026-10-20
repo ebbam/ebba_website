@@ -17,6 +17,6 @@ Previously, I worked as Junior Policy Advisor to the **OECD** Chief of Staff and
 
 I hold an *MSc in Environmental Change and Management* from the **University of Oxford** and a *BA in Economics* from **Harvard College**.
 
-*Key Topics: Labour economics, unemployment, wages, inequality, active labour market policy, occupational mobility, public finances*
+<p class="about__keywords"><strong>Key Topics:</strong> <span class="about__keyword">Labour economics</span> <span class="about__keyword">Unemployment</span> <span class="about__keyword">Wages</span> <span class="about__keyword">Inequality</span> <span class="about__keyword">Active labour market policy</span> <span class="about__keyword">Occupational mobility</span> <span class="about__keyword">Public finances</span></p>
 
-*Key Methods: Panel econometrics, occupational networks, agent-based modelling, policy simulations*
+<p class="about__keywords"><strong>Key Methods:</strong> <span class="about__keyword">Panel econometrics</span> <span class="about__keyword">Occupational networks</span> <span class="about__keyword">Agent-based modelling</span> <span class="about__keyword">Policy simulations</span></p>

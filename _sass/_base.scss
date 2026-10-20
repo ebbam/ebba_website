@@ -1,6 +1,22 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+@font-face {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/Roboto-Variable.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("../fonts/Roboto-Italic-Variable.ttf") format("truetype");
+}
+
 html {
   /* sticky footer fix */
   position: relative;
