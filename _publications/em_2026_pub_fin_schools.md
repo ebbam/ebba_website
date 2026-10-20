@@ -1,0 +1,9 @@
+---
+title: "Uneven Wages and Public Goods: The Case of U.S. Public Education"
+collection: publications
+category: working papers
+permalink: /publications/em_2026_pub_fin_schools
+date: 2026-10-12
+---
+
+Wage growth is a key driver of local wealth accumulation, enabling greater household and community investment in public goods. Yet local wages vary substantially across US regions due to differences in industrial composition and exposure to macroeconomic shocks. Given the structure of local public finances, regions exposed to favorable wage shocks likely benefit from deepened tax bases whereas the fiscal capacity of others is eroded. This work estimates the effect of local wage shocks on education spending, exploiting variation in commuting zone industrial composition interacted with national industry value added shocks. We estimate that a 10\% increase in local wages generates a 2.1\% short-run increase in per-pupil education expenditure, with a long-run effect of approximately 4.4\%. This result is driven by a handful of states, whereas others exhibit limited within-state wage responsiveness. Although states exhibiting a weak or insignificant wage-expenditure relationship rely less on local taxation, the cleaner cross-state regularity runs through state fiscal policy: legally binding redistributive policies interrupting the fiscal transmission channel from wages to education spending, insulating local school budgets from wage fluctuations. Finally, we find that the wage-expenditure link is strongest in regions with historically low wage growth, indicating that economic stagnation may beget further stagnation through weaker fiscal capacity.
