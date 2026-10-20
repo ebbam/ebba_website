@@ -1,8 +1,7 @@
 ---
-title: "Uneven Wages and Public Goods: The Case of U.S. Public Education"
+title: "*(Forthcoming)* Uneven Wages and Public Goods: The Case of U.S. Public Education"
 collection: publications
 category: working papers
-permalink: /publications/em_2026_pub_fin_schools
 date: 2026-10-12
 ---
 
