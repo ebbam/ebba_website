@@ -70,6 +70,10 @@
   font-size: $type-size-7;
 }
 
+.archive__item-abstract summary {
+  cursor: pointer;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
