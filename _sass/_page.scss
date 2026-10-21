@@ -108,16 +108,7 @@
 }
 
 .about__keywords {
-  .about__keyword {
-    color: $info-color;
-    font-weight: bold;
-
-    & + .about__keyword:before {
-      content: "\00b7";
-      padding: 0 0.45em;
-      color: $gray;
-    }
-  }
+  color: $info-color;
 }
 
 .page__hero {
