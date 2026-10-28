@@ -5,6 +5,11 @@
 .archive {
   margin-bottom: 2em;
 
+  p, li {
+    text-align: justify;
+    hyphens: auto;
+  }
+
   @include breakpoint($medium) {
     @include span(12 of 12);
   }
